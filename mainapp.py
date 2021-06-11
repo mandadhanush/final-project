@@ -35,7 +35,7 @@ if nav== "Home":
 
 
     st.header("""
-              Develped By
+              Developed By
              """)
     st.image("mypic.jpg",width = 100)
     
