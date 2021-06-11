@@ -85,7 +85,7 @@ if nav == "Results":
         st.header("""Accuracy Curve""")
         st.image("accuracy curvecnn.JPG",width = 500)
         st.header("""Loss Curve""")
-        st.image("loss curvecnn.JPG",width = 500)
+        st.image("LOSS CURVEcnn.JPG",width = 500)
                    
                
 if nav == "Prediction":
