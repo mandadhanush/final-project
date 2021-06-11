@@ -6,20 +6,9 @@ Created on Fri Jun 11 07:57:24 2021
 """
 
 import streamlit as st
-import pandas as pd 
-from matplotlib import pyplot as plt
-from plotly import graph_objs as go
-from sklearn.linear_model import LinearRegression
+
 import numpy as np 
-
-
-import numpy as np
-import tensorflow as tf
-import os
 from PIL import Image, ImageOps
-
-
-from tensorflow.keras.applications.imagenet_utils import preprocess_input
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 
