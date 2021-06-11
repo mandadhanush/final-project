@@ -135,8 +135,7 @@ if nav == "Prediction":
             st.write("It is a normal image!")
         elif prediction[0][1]<0.5:
             st.write("It is a drusen image!")
-        else:
-            st.write("give correct image!")
+        
     
         st.text("Probability (0: drusen, 1: normal)")
         st.write(prediction)
