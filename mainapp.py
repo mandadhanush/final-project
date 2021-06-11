@@ -59,11 +59,11 @@ if nav == "Results":
         st.header("""Model Accuracy""")
         st.write("62.60%")
         st.header("""Confusion Matrix""")
-        st.image("resnet/matrix.jpg",width = 500)
+        st.image("final project/resnet/matrix.jpg",width = 500)
         st.header("""Accuracy Curve""")
-        st.image("resnet/accuracy curve.jpg",width = 500)
+        st.image("final project/resnet/accuracy curve.jpg",width = 500)
         st.header("""Loss Curve""")
-        st.image("resnet/loss curve.jpg",width = 500)
+        st.image("finalproject/resnet/loss curve.jpg",width = 500)
         
         
     if res=="Visual Geometry Group16":
