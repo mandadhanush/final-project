@@ -81,11 +81,11 @@ if nav == "Results":
         st.header("""Model Accuracy""")
         st.write("92.98%")
         st.header("""Confusion Matrix""")
-        st.image("maatrixcnn.jpg",width = 500) 
+        st.image("maatrix.JPG",width = 500) 
         st.header("""Accuracy Curve""")
-        st.image("accuracy curvecnn.jpg",width = 500)
+        st.image("accuracy curvecnn.JPG",width = 500)
         st.header("""Loss Curve""")
-        st.image("loss curvecnn.jpg",width = 500)
+        st.image("loss curvecnn.JPG",width = 500)
                    
                
 if nav == "Prediction":
