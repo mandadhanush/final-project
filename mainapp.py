@@ -70,11 +70,11 @@ if nav == "Results":
         st.header("""Model Accuracy""")
         st.write("98.14%")
         st.header("""Confusion Matrix""")
-        st.image("VGG16/matrix.jpg",width = 500) 
+        st.image("matrixvgg.JPG",width = 500)
         st.header("""Accuracy Curve""")
-        st.image("VGG16/accuracy curve.jpg",width = 500)
+        st.image("accuracy curvevgg.JPG",width = 500)
         st.header("""Loss Curve""")
-        st.image("VGG16/loss curve.jpg",width = 500)
+        st.image("loss curvevgg.JPG",width = 500)
         
         
     if res=="Convolutional Neural Network":
