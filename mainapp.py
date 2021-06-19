@@ -37,14 +37,18 @@ if nav== "Home":
     st.header("""
               Developed By
              """)
-    st.image("mypic.jpg",width = 100)
+             
+    st.image("ravi.jpg",width=100)
     
-    
-   
-    st.write("I am Dhanush Kumar manda pursuing M.tech Software Engineering in VIT University.The main aim of the application is to make doctors work automated.")
+    st.write("I am Ravi Teja Nallagatla pursuing M.tech Software Engineering in VIT University.My part of this project is to develop best suited algorithm among VGG16,CNN,Resnet50 and create a .h5 file which is helped to deploy in front end.")
     st.markdown("""
-                (My GitHub)(https://github.com/mandadhanush)
+                (My LinkedIn)(https://www.linkedin.com/in/raviteja-nallagatla-ba9b241a0)
     """)
+    
+    
+    st.image("mypic.jpg",width = 100)
+    st.write("I am Dhanush Kumar manda pursuing M.tech Software Engineering in VIT University.My part of this project is to develop a front end using Streamlit framework and use the .h5 model in the page for predicting the disease.")
+    
     st.markdown("""
                 (My LinkedIn)(https://www.linkedin.com/in/mandadhanush/)
     """)
