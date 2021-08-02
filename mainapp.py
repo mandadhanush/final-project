@@ -38,12 +38,7 @@ if nav== "Home":
               Developed By
              """)
              
-    st.image("ravi.jpg",width=100)
-    
-    st.write("I am Ravi Teja Nallagatla pursuing M.tech Software Engineering in VIT University.My part of this project is to develop best suited algorithm among VGG16,CNN,Resnet50 and create a .h5 file which is helped to deploy in front end.")
-    st.markdown("""
-                (My LinkedIn)(https://www.linkedin.com/in/raviteja-nallagatla-ba9b241a0)
-    """)
+   
     
     
     st.image("mypic.jpg",width = 100)
